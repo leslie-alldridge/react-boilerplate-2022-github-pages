@@ -4,6 +4,6 @@ Deployed to GitHub Pages status:
 
 Security
 
-[![Known Vulnerabilities](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages/badge.svg)](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages)
+[![Known Vulnerabilities](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages/badge.svg?targetFile=package.json)](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages?targetFile=package.json)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
