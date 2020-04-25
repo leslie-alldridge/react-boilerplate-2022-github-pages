@@ -1,3 +1,7 @@
+Deployed to GitHub Pages status:
+
+![Publish Master Branch](https://github.com/leslie-alldridge/react-boilerplate-2020-github-pages/workflows/Publish%20Master%20Branch/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
