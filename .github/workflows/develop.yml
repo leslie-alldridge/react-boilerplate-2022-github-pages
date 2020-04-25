@@ -8,7 +8,9 @@ jobs:
       matrix:
         node-version: [12.x]
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
+        with:
+          ref: my-branch
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@master
         with:
@@ -23,7 +25,9 @@ jobs:
       matrix:
         node-version: [12.x]
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
+        with:
+          ref: my-branch
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@master
         with:
