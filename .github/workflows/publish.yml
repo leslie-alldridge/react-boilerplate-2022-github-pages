@@ -1,0 +1,37 @@
+name: Publish Master Branch
+on:
+  push:
+    branches:
+      - master
+jobs:
+  setup-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+      - uses: actions/checkout@master
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@master
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies and run tests
+        run: |
+          yarn
+          yarn test
+        env:
+          CI: true
+
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Deploy Build Directory to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@master
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
+          BUILD_SCRIPT: yarn && yarn build
