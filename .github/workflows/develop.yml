@@ -25,7 +25,7 @@ jobs:
       - name: Annotate Code Linting Results
         uses: ataylorme/eslint-annotate-action@1.0.4
         with:
-          repo-token: '${{ secrets.ACCESS_TOKEN }}'
+          repo-token: '${{ secrets.USER_TOKEN }}'
           report-json: 'eslint_report.json'
       - name: Upload ESLint report
         uses: actions/upload-artifact@v1
