@@ -2,6 +2,7 @@
   "name": "boilerplate",
   "version": "0.1.0",
   "author": "Leslie Alldridge 2020",
+  "homepage": "https://github.com/leslie-alldridge/react-boilerplate-2020-github-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
