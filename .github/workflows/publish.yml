@@ -26,8 +26,8 @@ jobs:
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./coverage/clover.xml
-          flags: react-frontend-tests
-          name: codecov-master-branch
+          flags: frontend
+          name: master
           fail_ci_if_error: true
 
   build-and-deploy:
