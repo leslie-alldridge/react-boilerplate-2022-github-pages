@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --coverage --watchAll=false",
+    "test": "react-scripts test --collectCoverageFrom=src/**/*.jsx --collectCoverageFrom=!src/index.jsx --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .jsx src",
     "lint:report": "eslint --output-file eslint_report.json --format json ./src"
