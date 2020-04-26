@@ -6,4 +6,8 @@ Security
 
 [![Known Vulnerabilities](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages/badge.svg?targetFile=package.json)](https://snyk.io/test/github/leslie-alldridge/react-boilerplate-2020-github-pages?targetFile=package.json)
 
+Test Coverage
+
+[![codecov](https://codecov.io/gh/leslie-alldridge/react-boilerplate-2020-github-pages/branch/master/graph/badge.svg)](https://codecov.io/gh/leslie-alldridge/react-boilerplate-2020-github-pages)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
