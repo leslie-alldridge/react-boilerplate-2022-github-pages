@@ -13,7 +13,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "snyk": "^1.316.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,7 +22,9 @@
     "test": "react-scripts test --collectCoverageFrom=src/**/*.jsx --collectCoverageFrom=!src/index.jsx --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .jsx src",
-    "lint:report": "eslint --output-file eslint_report.json --format json ./src"
+    "lint:report": "eslint --output-file eslint_report.json --format json ./src",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,5 +48,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.1"
-  }
+  },
+  "snyk": true
 }
