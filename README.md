@@ -65,4 +65,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Lint code `npm run lint`
 - Create lint report `npm run lint:report`
 <hr/>
-<strong>Project is under development but can still be used today.</strong>
