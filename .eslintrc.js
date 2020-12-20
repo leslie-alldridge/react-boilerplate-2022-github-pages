@@ -18,5 +18,7 @@ module.exports = {
   plugins: ['react'],
   rules: {
     'import/no-extraneous-dependencies': ['error', { packageDir: './' }],
+    'linebreak-style': 0,
+    'global-require': 0,
   },
 };
