@@ -35,7 +35,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@master
-
+      - name: Build
+        run: |
+          yarn
+          yarn run build
       - name: Deploy Build Directory to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
