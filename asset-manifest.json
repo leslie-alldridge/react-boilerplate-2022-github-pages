@@ -5,16 +5,16 @@
     "main.js.map": "/react-boilerplate-2020-github-pages/static/js/main.aeee8b28.chunk.js.map",
     "runtime-main.js": "/react-boilerplate-2020-github-pages/static/js/runtime-main.548a50ea.js",
     "runtime-main.js.map": "/react-boilerplate-2020-github-pages/static/js/runtime-main.548a50ea.js.map",
-    "static/js/2.5ec048bd.chunk.js": "/react-boilerplate-2020-github-pages/static/js/2.5ec048bd.chunk.js",
-    "static/js/2.5ec048bd.chunk.js.map": "/react-boilerplate-2020-github-pages/static/js/2.5ec048bd.chunk.js.map",
+    "static/js/2.4b944d5a.chunk.js": "/react-boilerplate-2020-github-pages/static/js/2.4b944d5a.chunk.js",
+    "static/js/2.4b944d5a.chunk.js.map": "/react-boilerplate-2020-github-pages/static/js/2.4b944d5a.chunk.js.map",
     "index.html": "/react-boilerplate-2020-github-pages/index.html",
     "static/css/main.286b9f09.chunk.css.map": "/react-boilerplate-2020-github-pages/static/css/main.286b9f09.chunk.css.map",
-    "static/js/2.5ec048bd.chunk.js.LICENSE.txt": "/react-boilerplate-2020-github-pages/static/js/2.5ec048bd.chunk.js.LICENSE.txt",
+    "static/js/2.4b944d5a.chunk.js.LICENSE.txt": "/react-boilerplate-2020-github-pages/static/js/2.4b944d5a.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/react-boilerplate-2020-github-pages/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.548a50ea.js",
-    "static/js/2.5ec048bd.chunk.js",
+    "static/js/2.4b944d5a.chunk.js",
     "static/css/main.286b9f09.chunk.css",
     "static/js/main.aeee8b28.chunk.js"
   ]
