@@ -5,7 +5,7 @@
   "homepage": "https://leslie-alldridge.github.io/react-boilerplate-2020-github-pages",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^5.1.0",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "node-sass": "^6.0.1",
