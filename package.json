@@ -1,9 +1,12 @@
 {
   "name": "boilerplate",
-  "version": "0.1.0",
-  "author": "Leslie Alldridge - 2020",
-  "homepage": "https://leslie-alldridge.github.io/react-boilerplate-2021-github-pages",
+  "version": "0.2.0",
+  "author": "Leslie Alldridge - 2022",
+  "homepage": "https://leslie-alldridge.github.io/react-boilerplate-2022-github-pages",
   "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^9.5.0",
@@ -13,7 +16,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.3.3",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

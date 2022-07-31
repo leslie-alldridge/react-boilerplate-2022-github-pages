@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png" height="30"/> Create-React-App Boilerplate 2020 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png" height="30"/></h1>
+<h1 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png" height="30"/> Create-React-App Boilerplate 2022 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png" height="30"/></h1>
 <p align="center">
     <a href='https://photos.google.com/share/AF1QipMia2we7ht3vIvrSlHIHHr_W0-e-UDMOQ7Eo-abaiQaZf0SV0awXBTaBJM2bu6XbA?key=N2JreUgwT2Q2Zl9ZcENNLTRMOTN5UGF5ei1nd0J3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/TqwqjMTFHExCbFKYqUY4iA_cK7it0wfbi1OuOYSI6qSaWp6CGwmtHR6bzzQg0D8FzRcb7BHxonqX_htweTXYJZVGWBP4gVPW8XByzMUUxrfC2yS4I40i6y8Uul-Gey3JQU5XIsCVeQE=w2400' /></a>
 </p>

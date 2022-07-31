@@ -14,7 +14,7 @@ function App() {
           and save to reload.
         </p>
       </header>
-      <Footer name="Leslie Alldridge" />
+      <Footer name="Your name" />
     </div>
   );
 }
