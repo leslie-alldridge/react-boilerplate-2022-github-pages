@@ -5,12 +5,12 @@
 
 <p align="center">
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Publish Master Branch">
-        <img src="https://github.com/leslie-alldridge/react-boilerplate-2021-github-pages/workflows/Publish%20Master%20Branch/badge.svg" /></a>
-<a href="https://codecov.io/gh/leslie-alldridge/react-boilerplate-2021-github-pages" alt="Code test coverage">
-        <img src="https://codecov.io/gh/leslie-alldridge/react-boilerplate-2021-github-pages/branch/master/graph/badge.svg" /></a><a href="https://www.codefactor.io/repository/github/leslie-alldridge/react-boilerplate-2020-github-pages" alt="Code factor quality">
-        <img src="https://www.codefactor.io/repository/github/leslie-alldridge/react-boilerplate-2021-github-pages/badge" /></a>
-        <a href="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fleslie-alldridge.github.io%2Freact-boilerplate-2021-github-pages%2F" alt="w3c validation">
-        <img src="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fleslie-alldridge.github.io%2Freact-boilerplate-2021-github-pages%2F" /></a>
+        <img src="https://github.com/leslie-alldridge/react-boilerplate-2022-github-pages/workflows/Publish%20Master%20Branch/badge.svg" /></a>
+<a href="https://codecov.io/gh/leslie-alldridge/react-boilerplate-2022-github-pages" alt="Code test coverage">
+        <img src="https://codecov.io/gh/leslie-alldridge/react-boilerplate-2022-github-pages/branch/master/graph/badge.svg" /></a><a href="https://www.codefactor.io/repository/github/leslie-alldridge/react-boilerplate-2022-github-pages" alt="Code factor quality">
+        <img src="https://www.codefactor.io/repository/github/leslie-alldridge/react-boilerplate-2022-github-pages/badge" /></a>
+        <a href="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fleslie-alldridge.github.io%2Freact-boilerplate-2022-github-pages%2F" alt="w3c validation">
+        <img src="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fleslie-alldridge.github.io%2Freact-boilerplate-2022-github-pages%2F" /></a>
 
 </p>
 <hr/>
