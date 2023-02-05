@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-boilerplate-2022-github-pages/static/css/main.858bcb27.css",
-    "main.js": "/react-boilerplate-2022-github-pages/static/js/main.ab92e244.js",
+    "main.js": "/react-boilerplate-2022-github-pages/static/js/main.f947ad8b.js",
     "static/media/logo.svg": "/react-boilerplate-2022-github-pages/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/react-boilerplate-2022-github-pages/index.html",
     "main.858bcb27.css.map": "/react-boilerplate-2022-github-pages/static/css/main.858bcb27.css.map",
-    "main.ab92e244.js.map": "/react-boilerplate-2022-github-pages/static/js/main.ab92e244.js.map"
+    "main.f947ad8b.js.map": "/react-boilerplate-2022-github-pages/static/js/main.f947ad8b.js.map"
   },
   "entrypoints": [
     "static/css/main.858bcb27.css",
-    "static/js/main.ab92e244.js"
+    "static/js/main.f947ad8b.js"
   ]
 }
